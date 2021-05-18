@@ -1,0 +1,46 @@
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\Web API.csprojAssemblyReference.cache
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\Web API.AssemblyInfoInputs.cache
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\Web API.AssemblyInfo.cs
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\Web API.csproj.CoreCompileInputs.cache
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\bin\Debug\net5.0\appsettings.json
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\bin\Debug\net5.0\Web API.exe
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\bin\Debug\net5.0\Web API.deps.json
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\bin\Debug\net5.0\Web API.runtimeconfig.json
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\bin\Debug\net5.0\Web API.runtimeconfig.dev.json
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\bin\Debug\net5.0\Web API.dll
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\bin\Debug\net5.0\ref\Web API.dll
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\bin\Debug\net5.0\Web API.pdb
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\staticwebassets\Web API.StaticWebAssets.Manifest.cache
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\staticwebassets\Web API.StaticWebAssets.xml
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\scopedcss\bundle\Web API.styles.css
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\Web API.RazorTargetAssemblyInfo.cache
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\Web API.dll
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\ref\Web API.dll
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\Web API.pdb
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Exercise 4 Web API\Web API\Web API\obj\Debug\net5.0\Web API.genruntimeconfig.cache
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\bin\Debug\net5.0\appsettings.json
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\bin\Debug\net5.0\Web API.exe
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\bin\Debug\net5.0\Web API.deps.json
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\bin\Debug\net5.0\Web API.runtimeconfig.json
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\bin\Debug\net5.0\Web API.runtimeconfig.dev.json
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\bin\Debug\net5.0\Web API.dll
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\bin\Debug\net5.0\ref\Web API.dll
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\bin\Debug\net5.0\Web API.pdb
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\Web API.csprojAssemblyReference.cache
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\Web API.AssemblyInfoInputs.cache
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\Web API.AssemblyInfo.cs
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\Web API.csproj.CoreCompileInputs.cache
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\staticwebassets\Web API.StaticWebAssets.Manifest.cache
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\staticwebassets\Web API.StaticWebAssets.xml
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\scopedcss\bundle\Web API.styles.css
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\Web API.RazorTargetAssemblyInfo.cache
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\Web API.dll
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\ref\Web API.dll
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\Web API.pdb
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 4 Web API\Web API\obj\Debug\net5.0\Web API.genruntimeconfig.cache
